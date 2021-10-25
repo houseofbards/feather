@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: cotes2020/jekyll-theme-chirpy
 title: FeAThEr GDR
 description: Un Gioco di Ruolo ispirato a World of Dungeons, Apocalypse World, Dungeon World, Dungeons & Dragons, e molti altri ;-)
